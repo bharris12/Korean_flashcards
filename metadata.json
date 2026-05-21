@@ -1,0 +1,6 @@
+{
+  "name": "Korean Flashcards",
+  "description": "An interactive flashcard and learning web application for training on Korean days of the week, Sino-Korean numbers, and native Korean numbers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
