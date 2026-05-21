@@ -20,3 +20,10 @@ export default defineConfig(() => {
     },
   };
 });
+export default defineConfig(() => {
+  return {
+    base: '/Korean_flashcards/', // Add this line
+    plugins: [react(), tailwindcss()],
+    // ... rest of configuration
+  }
+});
